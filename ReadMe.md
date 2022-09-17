@@ -6,7 +6,7 @@
 * Hướng dẫn config properties: https://mkyong.com/java/java-properties-file-examples/
 * Hướng dẫn config jstl :https://openplanning.net/10429/java-jsp-standard-tag-library#a1264562
 
-{@youtube: https://www.youtube.com/watch?v=HndN6P9ke6U}
+{@youtube: https://youtu.be/PYe4E9MDN3M}
 ```
 CREATE TABLE `product` (
   `id` bigint NOT NULL,
